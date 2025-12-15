@@ -1,0 +1,12 @@
+fsm_traffic_light.c:14:6:fsm_perdes	8	static
+fsm_traffic_light.c:48:6:updateLCD	24	static
+fsm_traffic_light.c:122:6:setRed1	8	static
+fsm_traffic_light.c:127:6:setGreen1	8	static
+fsm_traffic_light.c:132:6:setAmber1	8	static
+fsm_traffic_light.c:137:6:setRed2	8	static
+fsm_traffic_light.c:141:6:setGreen2	8	static
+fsm_traffic_light.c:145:6:setAmber2	8	static
+fsm_traffic_light.c:150:13:setNormalLedsForMode1	8	static
+fsm_traffic_light.c:155:13:enterManualStep	16	static
+fsm_traffic_light.c:170:6:enterManualMode	8	static
+fsm_traffic_light.c:175:6:fsm_traffic_light	8	static
